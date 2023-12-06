@@ -1,3 +1,6 @@
+*{
+    border-style: solid;
+}
 .css1{
     border-top-style: dotted;
 }
@@ -153,6 +156,199 @@ border-right-style: dashed;
     border-color: blueviolet red green transparent;
     border-width: 8px;
 }
+.css42{
+    border: 12px;
+    border-style: solid;
+}
+.css43{
+    border-top: 8px;
+    border-style: solid;
+}
+.css44{
+    border-style: solid;
+    border-right: 8px;
+}
+.css45{
+    border-bottom: 8px;
+    border-style: solid;
+}
+.css46{
+    border-style: solid;
+    border-left: 8px;
+}
+.css47{
+    border-block: 8px;
+    border-style: solid;
+}
+.css48{
+    border-style: solid;
+    border-block-start: 8px;
+}
+.css49{
+    border-style: solid;
+    border-block-end: 8px;
+}
+.css50{
+    border-style: solid;
+    border-inline: 8px;
+}
+.css51{
+    border-inline-start: 8px;
+    border-style: solid;
+}
+.css52{
+    border-inline-end: 8px;
+    border-style: dashed;
+}
+.css53{
+    border-top-left-radius: 8px;
+    border-style: solid;
+}
+.css54{
+    border-top-right-radius: 8px;
+    border-style: solid;
+}
+.css55{
+    border-bottom-left-radius: 10%;
+    border-style: solid;
+}
+.css56{
+    border-bottom-right-radius: 10px;
+    border-style: solid;
+}
+.css57{
+    border-start-start-radius: 8px;
+    border-style: dotted;
+}
+.css58{
+    border-start-end-radius: 8px;
+    border-style: solid;
+}
+.css59{
+    border-end-end-radius: 8px;
+    border-style: solid;
+}
+.css60{
+    border-end-start-radius: 8px;
+    border-style: solid;
+}
+.css61{
+    border-style: solid;
+    border-radius: 8px;
+}
+.css62{
+    border-style: solid;
+    border-radius: 2px 26px;
+}
+.css63{
+    border-style: solid;
+    border-radius: 1px 15px 36px;
+}
+.css64{
+    border-style: solid;
+    border-radius: 10px 35px 12px 8px;
+}
+.css65{
+    border-image: url(../new2.jpg) 5 round;
+    border-style: solid;
+    border-width: 8px;
+    /* border-radius: 12px;     ???????? */
+}
+.css66{
+    margin-top: 50px;
+    border-style: solid;
+    background-color: blueviolet;
+}
+.css67{
+    margin-right: 50px;
+    border-style: solid;
+}
+.css68{
+    margin-bottom: 50px;
+    border-style: solid;
+}
+.css69{
+    border-style: solid;
+    margin-left: 50px;
+}
+.css70{
+    border-style: solid;
+    margin-block: 40px;
+}
+.css71{
+    border-style: solid;
+    margin-block-start: 100px;
+}
+.css72{
+    margin-block-end: 50px;
+}
+.css73{
+    margin-inline: 50px;
+}
+.css74{
+    margin-inline-start: 50px;
+}
+.css75{
+    margin-inline-end: 50px;
+}
+.css76{
+    margin: 50px;
+}
+.css77{
+    margin: 50px 20px;
+}
+.css78{
+    margin: 20px 40px 60px;
+}
+.css79{
+    margin: 10px 20px 40px 60px;
+}
+.css80{
+    margin: 8%;
+}
+.css81{
+    padding: 15px;
+}
+.css82{
+    padding-top: 20px;
+}
+.css83{
+    padding-right: 50px;
+    text-align: right;
+
+}
+.css84{
+    padding-bottom: 50px;
+}
+.css85{
+    padding-left: 50px;
+}
+.css86{
+    padding-block: 20px;
+}
+.css87{
+    padding-block-start:30px ;
+}
+.css88{
+    padding-block-end: 25px;
+}
+.css89{
+    padding-inline: 30px;
+}
+.css90{
+    padding-inline-start: 30px;
+}
+.css91{
+    padding-inline-end: 100px;
+}
+.css92{
+    padding: 10px 50px;
+}
+.css93{
+    padding: 10px 50px 8px ;
+}
+.css94{
+   padding: 10px 50px 9px 70px ;
+}
    
 
-]
