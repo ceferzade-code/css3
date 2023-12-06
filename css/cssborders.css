@@ -1,0 +1,98 @@
+.css1{
+    border-top-style: dotted;
+}
+.css2{
+border-right-style: dashed;
+}
+.css3{
+    border-bottom-style: double;
+}
+.css4{
+    border-left-style: solid;
+}
+.css5{
+    border-block-style: solid;
+}
+.css6{
+    border-inline-style: solid;
+}
+.css7{
+    border-block-start-style: solid;
+}
+.css8{
+    border-block-end-style: groove;
+}
+.css9{
+    border-inline-start-style: dashed;
+}
+.css10{
+    border-inline-end-style: dotted;
+}
+.css11{
+    border-style: solid;
+}
+.css11{
+    border-style: solid dashed;
+}
+.css12{
+    border-style: solid dotted dashed;
+}
+.css13{
+    border-style: solid dashed dotted groove;
+}
+.css14{
+    border-bottom-width: 8px;
+    border-style: solid;
+}
+.css15{
+    border-right-width: 8px;
+    border-style: solid;
+}
+.css16{
+    border-style: solid;
+    border-bottom-width: 8px;
+}
+.css17{
+    border-style: solid;
+    border-left-width: 8px;
+}
+.css18{
+    border-block-width: 8px;
+    border-style: solid;
+}
+.css19{
+    border-inline-width: 8px;
+    border-style: solid;
+}
+.css20{
+    border-style: solid;
+    border-block-start-width: 8px;
+}
+.css21{
+    border-block-end-width: 8px;
+    border-style: solid;
+}
+.css22{
+    border-inline-start-width: 8px;
+    border-style: solid;
+}
+.css23{
+    border-inline-end-width: 8px;
+    border-style: solid;
+}
+.css24{
+    border-width: 8px;
+    border-style: solid;
+}
+.css25{
+    border-width: 6px 16px;
+    border-style: solid;
+}
+.css26{
+    border-width: 2px 8px 16px;
+    border-style: solid;
+}
+.css27{
+    border-width: 2px 6px 12px 18px;
+    border-style: solid;
+}
