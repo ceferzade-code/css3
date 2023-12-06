@@ -96,3 +96,63 @@ border-right-style: dashed;
     border-width: 2px 6px 12px 18px;
     border-style: solid;
 }
+.css28{
+    border-style: solid;
+    border-top-color: blue;
+}
+.css29{
+    border-style: solid;
+    border-right-color: blueviolet;
+}
+.css30{
+    border-style: solid;
+    border-bottom-color: brown;
+}
+.css31{
+    border-style: solid;
+    border-left-color: brown;
+}
+.css32{
+    border-style: solid;
+    border-block-color: red;
+}
+.css33{
+    border-style: solid;
+    border-inline-color: red;
+}
+.css34{
+    border-style: solid;
+    border-block-start-color: red;
+}
+.css35{
+    border-style: solid;
+    border-block-end-color: red;
+}
+.css36{
+    border-style: solid;
+    border-inline-start-color: red;
+}
+.css37{
+    border-style: solid;
+    border-inline-end-color: red;
+}
+.css38{
+    border-color: red;
+    border-style: solid;
+}
+.css39{
+    border-style: double;
+    border-color: red blue;
+}
+.css40{
+    border-style: dotted;
+    border-color: blue green tomato;
+}
+.css41{
+    border-style: double;
+    border-color: blueviolet red green transparent;
+    border-width: 8px;
+}
+   
+
+]
